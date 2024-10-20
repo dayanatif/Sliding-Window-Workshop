@@ -1,7 +1,7 @@
 # 📚 Sliding Window Technique Workshop
 
 ## 🎉 Overview
-Welcome to the repository for the **Sliding Window Technique** workshop conducted on [20/OCT/2024]! This workshop covers a powerful algorithmic approach that simplifies many coding problems.
+Welcome to the repository for the **Sliding Window Technique** workshop conducted on 20/OCT/2024. This workshop covers a powerful algorithmic approach that simplifies many coding problems.
 
 ## 📝 Workshop Slides
 You can find the presentation slides in PDF format here:
