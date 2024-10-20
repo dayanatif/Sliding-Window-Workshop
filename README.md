@@ -10,7 +10,7 @@ You can find the presentation slides in PDF format here:
 
 ## 👩‍🏫 Trainers
 This workshop was co-trained by:
-- [**Rao Dayan**](https://www.linkedin.com/in/dayan-atif/) 
+- [**Rao Muhammad Dayan Atif**](https://www.linkedin.com/in/dayan-atif/) 
 - [**Noor Asghar**](https://www.linkedin.com/in/noor-asghar/)
 
 
