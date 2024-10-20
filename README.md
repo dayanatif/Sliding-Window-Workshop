@@ -9,7 +9,7 @@ You can find the presentation slides in PDF format here:
   
 ## 📅 Session Link
 You can find more details about the session on Facebook here:
-- [📱 View Session on Facebook](https://www.facebook.com/share/v/JFQhPCQ3ewDayZPD/?mibextid=WC7FNe)
+- [📱 Recording Link](https://www.facebook.com/share/v/JFQhPCQ3ewDayZPD/?mibextid=WC7FNe)
 
 ## 👩‍🏫 Trainers
 This workshop was co-trained by:
