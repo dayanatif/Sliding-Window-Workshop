@@ -6,6 +6,10 @@ Welcome to the repository for the **Sliding Window Technique** workshop conducte
 ## 📝 Workshop Slides
 You can find the presentation slides in PDF format here:
 - [📥 Download Workshop Slides](https://drive.google.com/drive/folders/1rjb3IYKJY4LZZHwrMgXzx0m-20-SHBtX?usp=drive_link)
+- 
+## 📅 Session Link
+You can find more details about the session on Facebook here:
+- [📱 View Session on Facebook](https://www.facebook.com/share/v/JFQhPCQ3ewDayZPD/?mibextid=WC7FNe)
 
 
 ## 👩‍🏫 Trainers
