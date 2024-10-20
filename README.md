@@ -1,10 +1,16 @@
-# Sliding Window Technique Workshop
+# 📚 Sliding Window Technique Workshop
 
-## Overview
-This repository contains the presentation slides and the problem links for the Sliding Window Technique workshop conducted on 20-Oct-2024. 
-The sliding window technique is a powerful approach used in algorithm design to solve various problems efficiently.
+## 🎉 Overview
+Welcome to the repository for the **Sliding Window Technique** workshop conducted on [20/OCT/2024]! This workshop covers a powerful algorithmic approach that simplifies many coding problems.
+
+## 📝 Workshop Slides
+You can find the presentation slides in PDF format here:
+- [📥 Download Workshop Slides]([link_to_your_slides.pdf](https://drive.google.com/drive/folders/1rjb3IYKJY4LZZHwrMgXzx0m-20-SHBtX?usp=drive_link))
 
 
-
+## 👩‍🏫 Trainers
+This workshop was co-trained by:
+- [**Rao Dayan**]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dayan-atif/)) 
+- [**Noor Asghar**](https://www.linkedin.com/in/noor-asghar/)
 
 
