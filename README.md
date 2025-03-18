@@ -15,5 +15,3 @@ You can find more details about the session on Facebook here:
 This workshop was co-trained by:
 - [**Rao Muhammad Dayan Atif**](https://www.linkedin.com/in/dayan-atif/) 
 - [**Noor Asghar**](https://www.linkedin.com/in/noor-asghar/)
-
-
